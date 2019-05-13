@@ -72,11 +72,11 @@ Step 1. Sign in to your account using the below
 
 **credentials (Please type in your credentials):**
 
-**Cloud Tenant** : {{9599c74b-3e30-24cf-b385-f9c59364604b.output.tenancy_name}}
+**Cloud Tenant** : {{tenant-name}}
 
-**Username**: {{9599c74b-3e30-24cf-b385-f9c59364604b.output.usernames_list}}
+**Username**: {{Username}}
 
-**Password**: {{9599c74b-3e30-24cf-b385-f9c59364604b.output.ui_passwords_list}}
+**Password**: {{Password}}
 
 
 
