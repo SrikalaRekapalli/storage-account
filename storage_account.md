@@ -29,9 +29,6 @@ Click **Start** to get started!
 ## Pre-Requisites
 
 - Oracle Cloud Infrastructure account credentials (User, Password, and Tenant)
-- Region and compartment with limits for a few small instances (1.1 or 2.1 is sufficient)
-- A VCN created with at least one subnet, internet gateway, default route to internet gateway and security groups allowing at least port 22/SSH in.
-- Ability to SSH into compute instances
 
 ## Recommended Learning Assets
 
